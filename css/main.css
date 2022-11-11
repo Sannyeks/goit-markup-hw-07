@@ -936,8 +936,6 @@ textarea {
   fill: #2196f3;
 }
 
-/* ==================== PRODUCTS ==================== */
-/* ========== PRODUCTS BUTTONS ========== */
 .section__button-filter {
   margin-bottom: 50px;
 }
@@ -982,7 +980,6 @@ textarea {
   color: #ffffff;
 }
 
-/* ========== PRODUCTS SECTION ========== */
 .section__products-list {
   padding: 0;
   margin: 0;
